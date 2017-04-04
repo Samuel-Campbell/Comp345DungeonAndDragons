@@ -1,0 +1,3 @@
+Entrance: Easy3
+X: 2
+Y: 2

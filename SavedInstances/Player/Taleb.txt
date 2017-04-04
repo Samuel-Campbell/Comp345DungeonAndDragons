@@ -1,0 +1,5 @@
+Name: Taleb
+Level: 2
+HP: 9
+SubClass: Bully
+Ability Scores: 16, 4, 8, 14, 6, 12, 

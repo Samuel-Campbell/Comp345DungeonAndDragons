@@ -1,0 +1,3 @@
+Exit: Easy2
+X: 3
+Y: 3

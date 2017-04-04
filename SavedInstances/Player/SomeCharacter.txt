@@ -1,0 +1,5 @@
+Name: SomeCharacter
+Level: 1
+HP: 11
+SubClass: Bully
+Ability Scores: 14, 6, 12, 12, 16, 14, 

@@ -1,0 +1,38 @@
+Width: 6
+Length: 6
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+s
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+x -> win2
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty

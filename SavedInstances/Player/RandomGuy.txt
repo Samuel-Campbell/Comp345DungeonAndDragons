@@ -1,0 +1,5 @@
+Name: RandomGuy
+Level: 1
+HP: 8
+SubClass: Nimble
+Ability Scores: 14, 8, 6, 4, 10, 4, 

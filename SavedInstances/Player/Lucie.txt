@@ -1,0 +1,5 @@
+Name: Lucie
+Level: 1
+HP: 9
+SubClass: Bully
+Ability Scores: 16, 16, 8, 8, 12, 10, 

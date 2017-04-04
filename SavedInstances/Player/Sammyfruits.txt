@@ -1,0 +1,5 @@
+Name: sammyfruits
+Level: 4
+HP: 10
+SubClass: Nimble
+Ability Scores: 4, 6, 10, 4, 4, 16, 

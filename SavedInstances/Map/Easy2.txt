@@ -1,0 +1,27 @@
+Width: 5
+Length: 5
+Empty
+Empty
+w
+Empty
+Empty
+Empty
+e -> Easy1
+w
+Empty
+Empty
+Empty
+Empty
+Empty
+m
+Empty
+Empty
+Empty
+Empty
+x -> Easy3
+Empty
+Empty
+Empty
+Empty
+w
+Empty

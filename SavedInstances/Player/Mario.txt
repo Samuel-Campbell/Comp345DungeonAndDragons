@@ -1,0 +1,5 @@
+Name: Mario
+Level: 1
+HP: 13
+SubClass: Nimble
+Ability Scores: 4, 12, 16, 10, 4, 16, 

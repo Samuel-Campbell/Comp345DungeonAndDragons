@@ -1,0 +1,6 @@
+Width: 2
+Length: 2
+Empty
+Empty
+Empty
+e -> win1

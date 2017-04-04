@@ -1,0 +1,1 @@
+[ITEM] [intelligence] [wisdom armorClass] [Strength] [constitution] [charisma] [dexterity] [damageattack] 

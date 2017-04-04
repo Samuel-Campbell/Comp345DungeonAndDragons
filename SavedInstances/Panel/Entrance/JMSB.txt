@@ -1,0 +1,3 @@
+Exit: HallBuilding
+X: 3
+Y: 2
